@@ -4,7 +4,7 @@
 
 we propose a novel architecture, named Gated Progressive Fusion (GPF-Net),  to selectively fuse features from multiple levels using gates in a fully connected way for polyp re-identification, which can effectively enhance the features at each level by higher-level features with stronger semantics and lower-level features with more details, and gates are used to control the propagation of useful information which significantly reduces the noises during fusion. On the basis of it, a gated progressive fusion strategy is introduced to achieve layer-wise refinement of semantic information through multi-level feature interactions. Experiments on standard benchmarks show the benefits of the multimodal setting over state-of-the-art unimodal ReID models, especially when combined with the specialized multimodal fusion strategy.
 
-<!-- <img src='figs/multi-data.png'/> -->
+<img src='figs/multi-data.png'/>
 
 ### News
 - Support Market-1501, DukeMTMC, CUHK03 and Colo-Pair datasets.
