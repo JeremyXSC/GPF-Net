@@ -24,6 +24,17 @@ bash trainer.sh
 ## Contributing
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
+## Citation
+If you find GPF-Net useful for your research and applications, please cite using this BibTeX:
+
+```
+@article{zhou2025ldp,
+  title={LDP: Parameter-Efficient Fine-Tuning of Multimodal LLM for Medical Report Generation},
+  author={Zhou, Tianyu and Tang, Junyi and Li, Zehui and Qian, Dahong and Xiang, Suncheng},
+  journal={arXiv preprint arXiv:2512.10750},
+  year={2025}
+}
+```
 
 ## Acknowledgments
 This work was supported by the National Natural Science Foundation of China under Projects (Grant No. 62301315).
